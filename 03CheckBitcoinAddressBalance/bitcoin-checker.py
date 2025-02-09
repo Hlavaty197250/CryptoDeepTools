@@ -8,7 +8,7 @@ except: # if is python2
     from urllib2 import urlopen
 
 
-def check_balance(address):
+def check_balance(17dE8apBcExNAtHr6da1kWUFMpBUfCE2Av):
 
     #Modify the value of the variable below to False if you do not want Bell Sound when the Software finds balance.
     SONG_BELL = True
